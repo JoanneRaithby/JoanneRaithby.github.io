@@ -1,36 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BOP ANIMATIONS</title>
-    <link>https://joanneraithby.github.io/</link>
-    <description>Recent content on BOP ANIMATIONS</description>
+    <title>Works on BOP ANIMATIONS</title>
+    <link>https://joanneraithby.github.io/work/</link>
+    <description>Recent content in Works on BOP ANIMATIONS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jan 2020 10:56:45 +0000</lastBuildDate>
     
-	<atom:link href="https://joanneraithby.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://joanneraithby.github.io/work/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://joanneraithby.github.io/posts/my-first-post/</link>
-      <pubDate>Fri, 24 Jan 2020 10:56:45 +0000</pubDate>
-      
-      <guid>https://joanneraithby.github.io/posts/my-first-post/</guid>
-      <description>Hello world  I am here! BOPPING things like a Bop
-  Duck Duck Go
-some stuff sdfsdfsdfdsfsfd My favorite search engine is Duck Duck Go.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://joanneraithby.github.io/hello/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://joanneraithby.github.io/hello/</guid>
-      <description>Hello there! Stuff and things
-   </description>
-    </item>
     
     <item>
       <title></title>

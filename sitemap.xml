@@ -18,11 +18,59 @@
   </url>
   
   <url>
+    <loc>https://joanneraithby.github.io/hello/</loc>
+  </url>
+  
+  <url>
+    <loc>https://joanneraithby.github.io/work/proj-1/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://joanneraithby.github.io/work/proj-2/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://joanneraithby.github.io/work/proj-3/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://joanneraithby.github.io/work/proj-4/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://joanneraithby.github.io/work/proj-5/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://joanneraithby.github.io/work/proj-6/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://joanneraithby.github.io/work/proj-7/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://joanneraithby.github.io/work/proj-8/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://joanneraithby.github.io/categories/</loc>
   </url>
   
   <url>
     <loc>https://joanneraithby.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://joanneraithby.github.io/work/</loc>
   </url>
   
 </urlset>
